@@ -1,7 +1,7 @@
 {
   "name": "once-events",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Wait for multiple DOM events",
   "license": "MIT",
   "repository": "bendrucker/once-events",
