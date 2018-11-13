@@ -1,4 +1,4 @@
-# once-events [![Build Status](https://travis-ci.org/bendrucker/once-events.svg?branch=master)](https://travis-ci.org/bendrucker/once-events)
+# once-events [![Build Status](https://travis-ci.org/bendrucker/once-events.svg?branch=master)](https://travis-ci.org/bendrucker/once-events) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/once-events.svg)](https://greenkeeper.io/)
 
 > Wait for multiple DOM events
 
